@@ -38,5 +38,7 @@ We are making the respective key presses using PyAutoGUI Module when different d
 3) EAST ----------------> RIGHT ARROW KEY PRESSED
 4) WEST ----------------> LEFT ARROW KEY PRESSED
 
+
+
 I am open to any type of improvements which you can suggest. So, don't hesitate in making your contributions in this project as pull request is open for all.
 
